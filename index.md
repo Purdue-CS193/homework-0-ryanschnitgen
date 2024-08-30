@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 
 # Ryan Schnitgen's First CS193 Homework
--The super awesome teachers
--The fancy computers
--The friendly students
+- The super awesome teachers
+- The fancy computers
+- The friendly students
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
